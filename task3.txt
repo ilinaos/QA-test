@@ -1,0 +1,2 @@
+select * from api_studentsstep
+where type_id in [7, 10, 4]
