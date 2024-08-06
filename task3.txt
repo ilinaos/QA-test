@@ -1,2 +1,2 @@
-select * from api_studentsstep
+select * from api_studentstep
 where type_id in [7, 10, 4]
